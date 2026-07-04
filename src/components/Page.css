@@ -253,10 +253,7 @@ body {
   }
 
   .right {
-    position: absolute;
-    right: 0%;
     width: 50%;
-    top: -125px;
     display: flex;
     justify-content: start;
     align-items: start;
